@@ -1,3 +1,3 @@
 # BookifyDocs
 
-**Documentation: ** https://www.overleaf.com/read/mkyzpnrdxqzp
+**Documentation:** https://www.overleaf.com/read/mkyzpnrdxqzp
