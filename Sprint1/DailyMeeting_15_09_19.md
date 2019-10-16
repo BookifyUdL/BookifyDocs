@@ -1,4 +1,4 @@
-# Daily Meeting: 14-10-2019
+# Daily Meeting: 15-10-2019
 
 | Assistant  | Role  |  
 |---|---|
