@@ -1,4 +1,4 @@
-# Daily Meeting: 22-10-2019
+# Daily Meeting: 23-10-2019
 
 | Assistant  | Role  |  
 |---|---|
@@ -16,7 +16,7 @@
 ## Actions
 | Type  | Description  | Owner | Deadline |
 |---|---|---|---|
-| I | The app needs some finishing touches and so does the documentation. | _All the team_ | 22-10-2019 |
+| I | The app needs some finishing touches and so does the documentation. | _All the team_ | 23-10-2019 |
 
 T: Task
 D: Decision
