@@ -1,11 +1,12 @@
-# Daily Meeting: 16-10-2019
+# Daily Meeting: 05-11-2019
 
 | Assistant  | Role  |  
 |---|---|
 | Radu Spaimoc  | Android Developer  |   
 | Marc Viladegut  | Android Developer  |   
-| Oscar Lopez |  Software Engineer |  
-| Lluis Mas |  Scrum Master |  
+| Oscar Lopez |  Scrum Master |  
+| Yves Marcel | Developer |
+| Lluis Mas |   Software Engineer |  
 
 ## Problems/Difficulties
 | Problem  | Task  | Owner | Description |
@@ -16,8 +17,8 @@
 ## Actions
 | Type  | Description  | Owner | Deadline |
 |---|---|---|---|
-| D | Perform essential improvements of the architecture | _Oscar and Lluis_ | 16-10-2019 |
-| D | Redesign "Discover books" tab | _Radu and Marc_ | 16-10-2019 |
+| D | Discuss about website functionalities | _Oscar and Lluis_ | 16-10-2019 |
+| D | Perform app design improvement | _Radu and Marc_ | 16-10-2019 |
 
 T: Task
 D: Decision
