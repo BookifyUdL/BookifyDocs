@@ -12,6 +12,7 @@
 
 *Here you need to include a picture of the Spring Planning in the model Kanban*
 
+![KanbanImage_Sprint2](https://raw.githubusercontent.com/BookifyUdL/BookifyDocs/master/Sprint2/kanbansprint2.png)
 
 (Juan Enrique told me that there's no problem uploading this Kanban picture).
 Considering the proposed distribution in the model Kanban, the overall activities to be performed by the team are: 
