@@ -8,7 +8,7 @@
 | Yves Marcel | Developer |
 | Lluis Mas | Software Engineer |  
 
-## Spring Planing Overview
+## Spring Planning Overview
 
 *Here you need to include a picture of the Spring Planning in the model Kanban*
 
