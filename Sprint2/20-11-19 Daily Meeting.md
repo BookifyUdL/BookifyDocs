@@ -1,11 +1,11 @@
-# Daily Meeting: 12-11-2019
+# Daily Meeting: 20-11-2019
 
 | Assistant  | Role  |  
 |---|---|
 | Radu Spaimoc  | Android Developer  |   
 | Marc Viladegut  | Android Developer  |   
 | Oscar Lopez |  Scrum Master |  
-| Yves Marcel | Developer |
+| Yves Marcel | Developer (404) |
 | Lluis Mas | Software Engineer |  
 
 ## Problems/Difficulties
@@ -16,8 +16,8 @@
 ## Actions
 | Type  | Description  | Owner | Deadline |
 |---|---|---|---|
-| I | The app is in a very good shape, only real data and finishing the frontend | _All the team_ | 12-11-2019 |
-| I | The documentation process is in progress| _All the team_ | 12-11-2019 |
+| I | Web communication and evalution | _All the team_ | 20-11-2019 |
+| I | The documentation process is near it's end | _All the team_ | 20-11-2019 |
 
 
 T: Task

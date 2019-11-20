@@ -17,8 +17,8 @@
 ## Actions
 | Type  | Description  | Owner | Deadline |
 |---|---|---|---|
-| D | Discuss about website functionalities | _Oscar and Lluis_ | 16-10-2019 |
-| D | Perform app design improvement | _Radu and Marc_ | 16-10-2019 |
+| D | Discuss about website functionalities | _Oscar and Lluis_ | 05-11-2019 |
+| D | Perform app design improvement | _Radu and Marc_ | 05-11-2019 |
 
 T: Task
 D: Decision
