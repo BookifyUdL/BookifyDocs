@@ -4,15 +4,16 @@
 
 | Action  | Brief Description  | Completed  
 |---|---|---|
-| Back-End Creation  | Task Description  |   [Yes] |
-| Admin Front-End Creation |  Task Description |  [Yes] |
-| App Improvement |  Task Description |  [Yes] |
+| Back-End Creation  | Create an API that will be our web application back-end  |   [Yes] |
+| Admin Front-End Creation |  Create a visual web page which will be used for application adminstrators |  [Yes] |
+| App Improvement |  Improve app design a little bit and rebuild comments system |  [Yes] |
+| Documentation |  Make a document that explains all the work done |  [Yes] |
 
 ## Burn-down Graph
 
 *Here we need an image reflecting the advances in the Burn-down graph. Complementing the image, we need a small paragraph describing the Scrum Master opinion about the advances.*
 
-![BurndownImage_Sprint2](https://raw.githubusercontent.com/BookifyUdL/BookifyDocs/master/Sprint2/burndown.jpeg)
+![BurndownImage_Sprint2](/Sprint2/burndown.jpeg)
 
 [DESCRIPTION GOES HERE]
 
@@ -20,7 +21,7 @@
 ## Burn-up (Velocity) Graph
 *Here we need an image reflecting the advances in the Burn-up graph. Complementing the image, we need a small paragraph describing the Scrum Master opinion about the advances.*
 
-![VelocityGraph](https://raw.githubusercontent.com/BookifyUdL/BookifyDocs/master/Sprint2/velocity.jpeg)
+![VelocityGraph](/Sprint2/velocity.jpeg)
 
 [DESCRIPTION GOES HERE]
 
